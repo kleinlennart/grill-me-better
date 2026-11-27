@@ -8,9 +8,11 @@ Into the current project:
 
 ```sh
 npx skills add kleinlennart/grill-me-better -a claude-code
+# or, with the GitHub CLI
+gh skill install kleinlennart/grill-me-better grill-me-better --agent claude-code
 ```
 
-Add `-g` to install it globally (for all projects). Then invoke it with `/grill-me-better`, or just ask to be grilled.
+Add `-g` (or `--scope user`) to install it globally (for all projects). Then invoke it with `/grill-me-better`, or just ask to be grilled.
 
 ## Layout
 

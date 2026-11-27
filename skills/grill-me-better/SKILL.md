@@ -1,5 +1,6 @@
 ---
 name: grill-me-better
+license: MIT
 description: Grill the user relentlessly about a plan, design, decision, or idea, one round of AskUserQuestion dialogs at a time, until every open decision is settled. Use whenever the user says "grill me", "stress-test this", "poke holes in", "challenge my plan", "interview me about", or wants their thinking pressure-tested before building, writing, or committing to something.
 ---
 
