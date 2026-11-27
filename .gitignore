@@ -1,0 +1,3 @@
+# Local dev tooling (skill-creator), not part of the published skill
+.claude/
+skills-lock.json
